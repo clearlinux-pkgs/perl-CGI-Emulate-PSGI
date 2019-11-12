@@ -1,0 +1,5 @@
+0.23
+perl(CGI)
+perl(HTTP::Response)
+perl(Test::Requires)
+perl(URI)
