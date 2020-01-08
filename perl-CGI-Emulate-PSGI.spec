@@ -4,7 +4,7 @@
 #
 Name     : perl-CGI-Emulate-PSGI
 Version  : 0.23
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/T/TO/TOKUHIROM/CGI-Emulate-PSGI-0.23.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/T/TO/TOKUHIROM/CGI-Emulate-PSGI-0.23.tar.gz
 Summary  : 'PSGI adapter for CGI'
@@ -108,5 +108,5 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.28.2/CGI/Emulate/PSGI.pm
-/usr/lib/perl5/vendor_perl/5.28.2/CGI/Parse/PSGI.pm
+/usr/lib/perl5/vendor_perl/5.30.1/CGI/Emulate/PSGI.pm
+/usr/lib/perl5/vendor_perl/5.30.1/CGI/Parse/PSGI.pm
