@@ -4,7 +4,7 @@
 #
 Name     : perl-CGI-Emulate-PSGI
 Version  : 0.23
-Release  : 15
+Release  : 16
 URL      : https://cpan.metacpan.org/authors/id/T/TO/TOKUHIROM/CGI-Emulate-PSGI-0.23.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/T/TO/TOKUHIROM/CGI-Emulate-PSGI-0.23.tar.gz
 Summary  : 'PSGI adapter for CGI'
